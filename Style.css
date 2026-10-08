@@ -1,0 +1,37 @@
+
+.box{
+  width: 300px;
+  height: 90px;
+  background-color: light-mocha;
+  box-shadow: 10px 10px grey;
+  box-align: center;
+  text-align: center;
+}
+body{
+    background-color: #F5E6D3;
+    color: #292421;
+}
+
+h2{
+  color: coffee-brown;
+  font-family: Georgia;
+}
+header{
+  word-spacing: 15px;
+}
+.img{
+  max-width: 100px;
+  height: auto;
+  justify-content: center;
+}
+p{
+  font-family: play-fair display;
+}
+footer{
+  text-align: center;
+}
+h2:hover{
+  background-color: lightgreen;
+  text-decoration: underline;
+  color: caramel;
+}
